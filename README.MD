@@ -49,5 +49,3 @@ https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
