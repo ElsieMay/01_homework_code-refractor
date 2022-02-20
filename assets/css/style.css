@@ -8,38 +8,45 @@
 }
 body {
 	background-color: #d9dcd6;
+	/* Sets whole website colour to light grey */
 }
 
 /**************
  These are the header properties
  **************/
+/* Set heading background to teal with white font colour */
 .header {
 	padding: 20px;
 	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
 	background-color: #2a607c;
 	color: #ffffff;
 }
+/* Set text color to white */
 .header h1 {
+	/* This is the largest text */
 	display: inline-block;
 	font-size: 48px;
 }
+/* Set 'seo' color to light grey */
 .header h1 .seo {
 	color: #d9dcd6;
 }
 
 /**************
- These are the navigation properties
+ These are the navigation list properties
  **************/
 .header nav {
+	/* Below sets padding, margin, font family and colour */
 	padding-top: 15px;
 	margin-right: 20px;
 	float: right;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; /* Font family used for header */
 	font-size: 20px;
 	color: #ffffff;
 	text-decoration: none;
 }
 .header nav ul li {
+	/* Below sets the list properties */
 	list-style-type: none;
 	display: inline-block;
 	margin-left: 25px;
@@ -47,10 +54,12 @@ body {
 	text-decoration: none;
 }
 a {
+	/* applies only to anchor */
 	color: #ffffff;
 	text-decoration: none;
 }
 p {
+	/* applies only to paragraph */
 	font-size: 16px;
 }
 
@@ -58,6 +67,7 @@ p {
  These are the hero image properties
  **************/
 .hero {
+	/* These are the hero image properties*/
 	height: 800px;
 	width: 100%;
 	margin-bottom: 25px;
@@ -69,14 +79,17 @@ p {
  These are the main section properties
  **************/
 .float-left {
+	/* Tells image where to align */
 	float: left;
 	margin-right: 25px;
 }
 .float-right {
+	/* Tells image where to align */
 	float: right;
 	margin-left: 25px;
 }
 .content {
+	/* class for content main section positioning */
 	width: 75%;
 	display: inline-block;
 	margin-left: 20px;
@@ -87,7 +100,7 @@ p {
 	margin-bottom: 20px;
 	padding: 50px;
 	height: 300px;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; /* Font family used for main section */
 	background-color: #0072bb;
 	color: #ffffff;
 }
@@ -102,20 +115,21 @@ p {
 .online-reputation-management h2,
 .social-media-marketing h2 {
 	margin-bottom: 20px;
-	font-size: 36px;
+	font-size: 36px; /* This is larger text */
 }
 
 /**************
  These are the aside area properties
  **************/
 .benefits {
+	/* These are the aside section properties */
 	margin-right: 20px;
 	padding: 20px;
 	clear: both;
 	float: right;
 	width: 20%;
 	height: 100%;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif; /* Font family used for aside */
 	background-color: #2589bd;
 }
 .benefit-lead,
@@ -127,12 +141,14 @@ p {
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
+	/* Heading three properties */
 	margin-bottom: 10px;
 	text-align: center;
 }
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
+	/* Image properties */
 	display: block;
 	margin: 10px auto;
 	max-width: 150px;
@@ -144,9 +160,9 @@ p {
 .footer {
 	padding: 30px;
 	clear: both;
-	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
-	text-align: center;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; /* Font family used for footer */
+	text-align: center; /* Sets text to centre of page */
 }
 .footer h2 {
-	font-size: 20px;
+	font-size: 20px; /* This is medium size, Heading Two */
 }
