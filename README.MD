@@ -23,11 +23,12 @@ The deployed appication can be viewed via this link, https://elsiemay.github.io/
 
 The Github repository can be viewed via this link, https://github.com/ElsieMay/01_homework_code-refractor.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Screenshot ```md
+![alt text](assets/images/Screen Shot 2022-02-20 at 1.37.45 pm.png)
+[alt text](assets/images/Screen Shot 2022-02-20 at 1.37.55 pm.png)
+[alt text](assets/images/Screen Shot 2022-02-20 at 1.38.02 pm.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+```
 
 ## Credits
 
@@ -62,3 +63,4 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+```
