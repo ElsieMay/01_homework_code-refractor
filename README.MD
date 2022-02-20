@@ -19,15 +19,15 @@ The project can be viewed via this link, https://elsiemay.github.io/01_homework_
 
 ## Usage
 
-The deployed appication can be viewed via this link, https://elsiemay.github.io/01_homework_code-refractor/#search-engine-optimization.
+The deployed application can be viewed via this link, https://elsiemay.github.io/01_homework_code-refractor/#search-engine-optimization.
 
 The Github repository can be viewed via this link, https://github.com/ElsieMay/01_homework_code-refractor.
 
 ![Screenshots](https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.45%20pm.png)
 
-(https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.55%20pm.png)
+![Screenshots](https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.55%20pm.png)
 
-(https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.38.02%20pm.png)
+![Screenshots](https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.38.02%20pm.png)
 
 ## Credits
 
