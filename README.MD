@@ -23,42 +23,31 @@ The deployed appication can be viewed via this link, https://elsiemay.github.io/
 
 The Github repository can be viewed via this link, https://github.com/ElsieMay/01_homework_code-refractor.
 
-![Screenshot](https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.45%20pm.png)
+![Screenshots](https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.45%20pm.png)
+
+(https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.55%20pm.png)
+
+(https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.38.02%20pm.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+I was aided by the BCS Learning assistant, David and Val. They instructed me well.
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+I followed these links for tutorials and additional information:
 
-If you followed tutorials, include links to those here as well.
+https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+https://www.w3schools.com/tags/att_meta_charset.asp
+https://www.youtube.com/watch?v=ZThq93Yuwd0
+https://developer.mozilla.org/en-US/docs/Glossary/Semantics
+https://www.w3schools.com/css/css_comments.asp
+https://www.w3.org/standards/webdesign/accessibility
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 
 ---
 
 🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-
-```
-
-```
