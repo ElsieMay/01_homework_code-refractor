@@ -23,7 +23,7 @@ The deployed appication can be viewed via this link, https://elsiemay.github.io/
 
 The Github repository can be viewed via this link, https://github.com/ElsieMay/01_homework_code-refractor.
 
-![Screenshot](01_homework_code-refractor/assets/images/Screen Shot 2022-02-20 at 1.37.45 pm)
+![Screenshot](https://github.com/ElsieMay/01_homework_code-refractor/blob/main/assets/images/Screen%20Shot%202022-02-20%20at%201.37.45%20pm.png)
 
 ## Credits
 
