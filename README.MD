@@ -23,11 +23,7 @@ The deployed appication can be viewed via this link, https://elsiemay.github.io/
 
 The Github repository can be viewed via this link, https://github.com/ElsieMay/01_homework_code-refractor.
 
-[Screenshots] ```.md!(assets/images/Screen Shot 2022-02-20 at 1.37.45 pm.png)
-md.(.assets/images/Screen Shot 2022-02-20 at 1.37.55 pm.png)
-md.[alt text](.assets/images/Screen Shot 2022-02-20 at 1.38.02 pm.png)
-
-```
+![Screenshot](relative/path/to/Screen Shot 2022-02-20 at 1.37.45 pm)
 
 ## Credits
 
@@ -62,4 +58,7 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+
+```
+
 ```
