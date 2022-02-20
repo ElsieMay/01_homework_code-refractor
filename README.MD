@@ -2,7 +2,7 @@
 
 ## Description
 
-The motivation for this project was to provide the user with an accessible website, so that people with disabilities can access it using assistive technologies like video captions, screen readers, and braille keyboards. I solved the client and user's accessibility issues by providing HTML semantics, making sure all links function correctly, providing comments in the CSS code and consolidating selectors and properties for an easier flow to the code.
+The motivation for this project was to provide the user with an accessible website, so that people with disabilities can access it using assistive technologies like video captions, screen readers, and braille keyboards. I solved the client and user's accessibility needs by providing HTML semantics, making sure all links function correctly, providing comments in the CSS code and consolidating selectors and properties for an easier flow to the code.
 
 I learnt about code refractoring, semantics (including hierarchy and accessibility needs), linking HTML code properly to CSS, classes and ID's, how to leave code a little cleaner than it was found, how to use the Google Dev Tools, alt text, commenting in code, and much more.
 
@@ -19,7 +19,9 @@ The project can be viewed via this link, https://elsiemay.github.io/01_homework_
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The deployed appication can be viewed via this link, https://elsiemay.github.io/01_homework_code-refractor/#search-engine-optimization.
+
+The Github repository can be viewed via this link, https://github.com/ElsieMay/01_homework_code-refractor.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
